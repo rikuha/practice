@@ -3,5 +3,5 @@
 }
 
 .code {
-  background-image: "sample.png";
+  background-image: url("sample.png");
 }
